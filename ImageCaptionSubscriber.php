@@ -8,6 +8,10 @@
  * the Microsoft Azure Computer Vision API:
  *  - https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
  *
+ * eZ Platform is built on the Symfony Framework. To enable this Event Subscriber
+ * you should make sure it is configured appropriately in config/services.yaml
+ * - https://symfony.com/doc/current/event_dispatcher.html#creating-an-event-subscriber
+ *  
  * More details in the blog article here:
  *  - https://ezplatform.com/blog/automatic-image-captions-with-microsoft-azure-computer-vision-api
  *
